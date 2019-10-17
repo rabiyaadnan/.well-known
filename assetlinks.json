@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ahmad.cv.base",
+    "sha256_cert_fingerprints":
+    ["65:5B:77:DD:12:EA:51:96:B4:CD:94:7B:F3:F2:FF:15:7A:52:B4:3E:AB:58:4C:E6:48:6A:F0:B3:FB:4C:38:6A"]
+  }
+}]
